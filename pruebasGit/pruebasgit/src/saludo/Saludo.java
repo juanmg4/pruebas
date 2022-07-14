@@ -6,7 +6,9 @@ public class Saludo {
     
     public Saludo() {
         
-        saludoBienvenida = "merge ramaNueva + master";
+
+        saludoBienvenida = "merge master + ramaNueva";
+
     }
     
     public String getSaludo() {
