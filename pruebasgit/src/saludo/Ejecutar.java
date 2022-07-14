@@ -1,4 +1,4 @@
-package pruebasgit;
+package saludo;
 
 public class Ejecutar {
 

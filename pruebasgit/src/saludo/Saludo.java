@@ -1,4 +1,4 @@
-package pruebasgit;
+package saludo;
 
 public class Saludo {
 
@@ -6,7 +6,7 @@ public class Saludo {
     
     public Saludo() {
         
-        saludoBienvenida = "hola mundo";
+        saludoBienvenida = "cambio en master";
     }
 
     public String getSaludo() {
