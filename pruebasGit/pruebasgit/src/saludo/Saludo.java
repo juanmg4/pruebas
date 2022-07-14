@@ -6,9 +6,11 @@ public class Saludo {
     
     public Saludo() {
         
-        saludoBienvenida = "cambio en master";
-    }
 
+        saludoBienvenida = "merge master + ramaNueva";
+
+    }
+    
     public String getSaludo() {
         return saludoBienvenida;
     }
