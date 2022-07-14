@@ -6,7 +6,7 @@ public class Saludo {
     
     public Saludo() {
         
-        saludoBienvenida = "cambio en master";
+        saludoBienvenida = "cambio en ramaNueva";
     }
 
     public String getSaludo() {
